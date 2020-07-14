@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "230c12e01c6cd1bb71b1bc10106cb567",
+    "revision": "248dff353f6e888f98688a671d58aaaa",
     "url": "/amalphotogallery/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/amalphotogallery/static/css/12.8921c4c4.chunk.css"
   },
   {
-    "revision": "433e152f75a8c98037ca",
+    "revision": "aa6513bcbe43a4f2b088",
     "url": "/amalphotogallery/static/css/main.57e931f0.chunk.css"
   },
   {
@@ -428,8 +428,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/amalphotogallery/static/js/99.530bd31d.chunk.js"
   },
   {
-    "revision": "433e152f75a8c98037ca",
-    "url": "/amalphotogallery/static/js/main.6da03df0.chunk.js"
+    "revision": "aa6513bcbe43a4f2b088",
+    "url": "/amalphotogallery/static/js/main.ee5b3877.chunk.js"
   },
   {
     "revision": "ebc4f05dfa50d4d653a6",
